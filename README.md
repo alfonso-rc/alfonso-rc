@@ -36,3 +36,8 @@
 </p>
 
 <h3>Proyecto Individual</h3>
+<p align="center">
+<img  width="900" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663106000/ecom/dog1_p6pynl.png"/>
+<br></br>
+<img  width="900" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663105890/ecom/dog2_d3jx70.png"/>
+</p>
