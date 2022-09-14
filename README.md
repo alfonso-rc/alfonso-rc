@@ -3,8 +3,8 @@
 
 ----
 
-**Recientemente Graduado del Bootcamp Soy Henry**
-
+**Recientemente Graduado del Bootcamp Soy Henry.** Soy de México y espero con gran aspiración mi primer empleo como programador 
+<br></br>
 
 <h3>Tech Skills:</3>
 
@@ -22,6 +22,7 @@
 <img height="50" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606366/ecom/claudinary_bhutpg.png" />
 </p>
 
+<br></br>
 
 **Proyectos realizados en el Bootcamp**
 
