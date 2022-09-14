@@ -28,9 +28,9 @@
 -----
 <h3>Proyecto Grupal</h3>
 <div align="center">
-<img  width="300" height="150" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606633/ecom/ecom2_qkdadc.png"/>
-<img  width="300" height="150" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606632/ecom/ecom3_mkmqvu.png"/>
-<img  width="300" height="150" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606632/ecom/ecom1_afoyrl.png"/>
+<img  width="250" height="150" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606633/ecom/ecom2_qkdadc.png"/>
+<img  width="250" height="150" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606632/ecom/ecom3_mkmqvu.png"/>
+<img  width="250" height="150" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606632/ecom/ecom1_afoyrl.png"/>
 </div>
 <h3>Proyecto Individual</h3>
 
