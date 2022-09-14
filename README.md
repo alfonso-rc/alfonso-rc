@@ -38,10 +38,9 @@
 <img  width="250" height="150" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663106000/ecom/dog1_p6pynl.png"/>
 <img  width="250" height="150" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663105890/ecom/dog2_d3jx70.png"/>
 </div>
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-  
-.    
+<h3>Algunas estadísticas</h3>
+    
    
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&hide=["stars"]&show_icons=true)
+![Prify Philip 's GitHub Stats ](https://github-readme-stats.vercel.app/api?username=alfonso-rc&hide=["stars"]&show_icons=true)
 
 -------
