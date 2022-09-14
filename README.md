@@ -27,15 +27,13 @@
 
 -----
 <h3>Proyecto Grupal</h3>
-<p align="center">
-<img  width="900" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606633/ecom/ecom2_qkdadc.png"/>
-<br></br>
-<img  width="700" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662607610/ecom/ecom_10_tnwzls.png"/>
-</p>
+
+<img  width="200" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606633/ecom/ecom2_qkdadc.png"/>
+<img  width="200" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606632/ecom/ecom3_mkmqvu.png"/>
+<img  width="250" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662607610/ecom/ecom_10_tnwzls.png"/>
 
 <h3>Proyecto Individual</h3>
-<p align="center">
-<img  width="900" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663106000/ecom/dog1_p6pynl.png"/>
-<br></br>
-<img  width="900" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663105890/ecom/dog2_d3jx70.png"/>
-</p>
+
+<img  width="300" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663106000/ecom/dog1_p6pynl.png"/>
+<img  width="300" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663105890/ecom/dog2_d3jx70.png"/>
+
