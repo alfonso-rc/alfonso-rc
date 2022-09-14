@@ -28,8 +28,6 @@
 -----
 <h3>Proyecto Grupal</h3>
 <p align="center">
-<img  width="900" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606632/ecom/ecom1_afoyrl.png"/>
-<br></br>
 <img  width="900" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606633/ecom/ecom2_qkdadc.png"/>
 <br></br>
 <img  width="700" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662607610/ecom/ecom_10_tnwzls.png"/>
