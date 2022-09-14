@@ -33,7 +33,7 @@
 <img  width="250" height="150" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606632/ecom/ecom1_afoyrl.png"/>
 </div>
 <h3>Proyecto Individual</h3>
-
-<img  width="300" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663106000/ecom/dog1_p6pynl.png"/>
-<img  width="300" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663105890/ecom/dog2_d3jx70.png"/>
-
+<div align="center">
+<img  width="250" height="150" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663106000/ecom/dog1_p6pynl.png"/>
+<img  width="250" height="150" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663105890/ecom/dog2_d3jx70.png"/>
+</div>
