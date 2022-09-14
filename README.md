@@ -3,14 +3,14 @@
 
 ----
 
-**Recientemente Graduado del Bootcamp Soy Henry.** Soy de México y espero con gran aspiración mi primer empleo como programador 
-<br></br>
-
+**Recientemente Graduado del Bootcamp Soy Henry.** Soy de México, y aunque estudie informatica, me dedique a la administración de negocios...Con la espina clavada en el corazon decidi dar un giro a mi carrera y regresar a mis origenes. Comienzo esta nueva etapa decidido a perfeccionarme en esta area al 100%.
+  
 <h3>Tech Skills:</3>
 
 <p align="center">
 <img height="50" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606366/ecom/html5_sne9t0.svg" />
 <img height="50" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606366/ecom/css3_u6yxkg.svg" />
+<img height="50" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1663121297/ecom/javascript_ku1ddj.png" />
 <img height="50" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606366/ecom/react_kh99ah.svg" />
 <img height="50" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606356/ecom/redux_kyqvyh.svg" />
 <img height="50" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606335/ecom/Tailwind_ivgnyd.png" />
