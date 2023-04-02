@@ -3,7 +3,7 @@
 
 ----
 
-**Recientemente Graduado del Bootcamp Soy Henry.** Soy de México, y aunque estudie informatica, me dedique a la administración de negocios...Con la espina clavada en el corazon decidi dar un giro a mi carrera y regresar a mis origenes. Comienzo esta nueva etapa decidido a perfeccionarme en esta area al 100%.
+Soy de México, y aunque estudie informatica, me dedique a la administración de negocios...Con la espina clavada en el corazon decidi dar un giro a mi carrera y regresar a mis origenes. Comienzo esta nueva etapa decidido a perfeccionarme en esta area al 100%.
   
 <h3>Tech Skills:</3>
 
